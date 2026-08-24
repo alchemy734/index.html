@@ -1,1 +1,16 @@
 
+{
+  "name": "BlacJack Fitness — Beat the Deck, Build the Body",
+  "short_name": "BlacJack Fit",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#052e16",
+  "theme_color": "#052e16",
+  "description": "Blackjack-powered workout game. Beat the dealer, earn your reps.",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
